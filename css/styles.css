@@ -1,0 +1,232 @@
+
+/* ID SELECTORS */
+
+#title{
+  text-align: center;
+  background-color:#fddb3a;
+}
+#features{
+  text-align: center;
+  background-color:#b8de6f ;
+}
+#jewellery{
+  text-align: center;
+  background-color: #eb8f8f;
+}
+
+#review{
+  text-align: center;
+  background-color: #ffcb8e;
+  padding: 7% 15%;
+
+}
+#press{
+  text-align: center;
+  background-color:#ffcb8e;
+  padding-bottom: 3px;
+
+}
+
+#pricing{
+  text-align: center;
+  padding: 100px;
+  background-color: #e0ece4;
+}
+#cta{
+  background-color: #fddb3a;
+  text-align: center;
+  padding:2% 3% 3%;
+}
+#footer{
+  text-align: center;
+  padding: 3% 3% 1%;
+  background-color: #fff;
+}
+
+
+body{
+  font-family: 'Inconsolata', monospace;
+}
+
+h1 , h2 , h3{
+  font-family: 'Grandstander', cursive;
+}
+
+
+h1 , h2 {
+  font-size: 3rem;
+  }
+
+h4{
+  font-size: 2rem;
+
+}
+
+/* TITLE */
+
+.title-tagline{
+  margin:50px auto;
+}
+.fh3{
+  font-family: 'Inconsolata', monospace;
+  font-size: 3rem;
+  width:70%;
+  margin:50px auto;
+}
+.text{
+   text-align: center;
+   padding: 30px 30px;
+}
+.ftext{
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+}
+.container-fluid{
+  padding :3% 5%;
+}
+
+/* Button space */
+.space{
+    text-align: center;
+    margin: 200px 0 150px 0;
+}
+.model-img{
+  text-align: center;
+  margin:0;
+}
+/* NAVBAR */
+.nav-item{
+  padding:0 10px;
+}
+.icon:hover{
+  color:red;
+}
+
+.icon1:hover{
+  color:green;
+}
+
+/* MODEL IMAGE */
+.title-image{
+  width: 85%;
+}
+
+/* FEATURES */
+.mdl1{
+  width: 51%;
+  margin: 50px 0 20px 0;
+}
+
+.mdl2{
+  width: 66%;
+  margin: 50px 0 20px 0;
+}
+
+.mdl3{
+  width: 53%;
+  margin: 50px 0 20px 0;
+}
+
+.mdl4{
+  width: 55%;
+  margin:50px 0 20px 0;
+}
+
+.mdl5{
+  width: 63%;
+  margin:50px 0 20px 0;
+}
+
+.mdl6{
+  width: 50%;
+  margin:50px 0 20px 0;
+}
+
+/* JEWELLERY */
+
+.j1{
+  width: 51%;
+  margin: 50px 0 20px 0;
+}
+
+.j2{
+  width: 49%;
+  margin: 50px 0 20px 0;
+}
+
+.j3{
+  width: 49%;
+  margin: 50px 0 20px 0;
+}
+
+.j4{
+  width: 49%;
+  margin:50px 0 20px 0;
+}
+
+.j6{
+  width: 49%;
+  margin:50px 0 20px 0;
+}
+
+.j8{
+  width: 58%;
+  margin:50px 0 20px 0;
+}
+
+/* REVIEWS */
+
+.review-img{
+  border-radius: 100%;
+  width:15%;
+  margin:12px 5px;
+}
+.review-img-3{
+
+  width:25%;
+  margin:30px 5px 20px 5px;
+  padding-bottom: 53px;
+}
+
+/* PRESS */
+
+.logo{
+
+  margin:20px 15px 30px ;
+  width:15%;
+}
+
+/* PRICING */
+
+.price-col{
+  padding: 2% 3%;
+}
+
+@media (max-width:992px){
+  .space{
+    margin:40px 0 40px 0;
+  }
+  .title-image{
+    width:50%;
+    margin-bottom: 30px;
+  }
+}
+
+/* CALL TO ACTION */
+
+.footbtn{
+  margin:0 10px;
+}
+
+.cta-heading{
+  margin: 50px auto;
+}
+
+/* FOOTER */
+
+.foot{
+  margin:20px 0 10px 0;
+}
+.ficon{
+  margin:0 10px 0 10px;
+}
